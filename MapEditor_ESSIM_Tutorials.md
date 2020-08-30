@@ -1,3 +1,5 @@
+# ESDL MapEditor ESSIM tutorials
+
 This set of tutorials demonstrate how to use the MapEditor to create and
 configure energy systems and how to run and interpret basic and complex
 scenarios using ESSIM.
@@ -672,7 +674,7 @@ To show the effect of placing a *Battery*, run an ESSIM simulation following the
 
 To save the model, follow the steps from Tutorial 1: Basic Energy System, Saving the model. Name the model 'Tutorial4\_Scenario.esdl'.
 
-## Scenario 5: H2 to store excess electricity production
+## Tutorial 5: H2 to store excess electricity production
 
 
 ### Description
