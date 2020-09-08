@@ -37,7 +37,7 @@ The basic *EnergySystem* in this example consists of three *EnergyAssets*: *Heat
 
 -   To add each of these *EnergyAssets*, use the first dropdown menu next to ***EDR asset*** menu item.
 
-![](Screenshots/Tutorial1/Tutorial1_NewEnergyAsset.png.png)
+![](Screenshots/Tutorial1/Tutorial1_NewEnergyAsset.png)
 
 *Figure 3: Selecting an EnergyAsset to create*
 
@@ -53,7 +53,7 @@ This creates a *HeatingDemand* icon next to the mouse cursor that can be placed 
 
 -   Position the mouse cursor on anywhere on the map and create the *EnergyAsset* by clicking on the map.
 
-![](Screenshots/Tutorial1/Tutorial1_NewEnergyAsset3.png.png)
+![](Screenshots/Tutorial1/Tutorial1_NewEnergyAsset3.png)
 
 *Figure 5: Selecting a location for a new EnergyAsset*
 
@@ -61,7 +61,7 @@ This creates a *HeatingDemand*, indicated by its icon (see the green circle in F
 
 -   Click ***Cancel*** on the left menu bar (or press the Esc key) to complete the action.
 
-![](Screenshots/Tutorial1/Tutorial1_NewEnergyAsset4.png.png)
+![](Screenshots/Tutorial1/Tutorial1_NewEnergyAsset4.png)
 
 *Figure 6: Creating an EnergyAsset on the map*
 
