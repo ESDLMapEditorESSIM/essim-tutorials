@@ -264,7 +264,7 @@ A pop-up window opens with ESSIM simulation parameters (see Figure 23).
 
 -   Enter a simulation description (1).
 
--   Choose a year or a period to simulate (2). For this example, choose Year 2015.
+-   Choose a year or a period to simulate (2). For this example, choose Year 2019.
 
 -   Click ***Run*** (3) to run the simulation.
 
