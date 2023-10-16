@@ -84,8 +84,8 @@
     <service xsi:type="esdl:DrivenByDemand" id="fb24d6f9-87a8-4196-b8c1-fece3953a644" outPort="bbfafc2a-21df-43fd-a852-0eb260441fb4" name="DrivenByDemand for HeatPump_63a4" energyAsset="63a497d2-9cd8-4b03-909b-9e48bebe0784"/>
     <service xsi:type="esdl:DrivenByDemand" id="0c6f736c-d71d-41f9-b613-bbefe3395d95" outPort="d5a36dc8-4c1a-429f-b8a4-30f46266522f" name="DrivenByDemand for GasHeater_Local" energyAsset="6db876e7-a1e7-4c09-9777-2d1600dff4fc"/>
     <service xsi:type="esdl:StorageStrategy" name="StorageStrategy for Battery_b8b3" id="0878e304-4a6d-43ab-ae95-7e76568d9863" energyAsset="b8b3c7cf-11c8-46da-89d0-f87ec7fc6ece">
-      <marginalDischargeCosts xsi:type="esdl:SingleValue" name="marginalChargeCosts for Battery_b8b3" id="51e6715a-0a74-4502-948d-ecde80acbf49" value="0.2"/>
-      <marginalChargeCosts xsi:type="esdl:SingleValue" name="marginalChargeCosts for Battery_b8b3" id="2718eacc-452e-4833-ade1-a7c083eac24d" value="0.8"/>
+      <marginalDischargeCosts xsi:type="esdl:SingleValue" name="marginalDischargeCosts for Battery_b8b3" id="51e6715a-0a74-4502-948d-ecde80acbf49" value="0.8"/>
+      <marginalChargeCosts xsi:type="esdl:SingleValue" name="marginalChargeCosts for Battery_b8b3" id="2718eacc-452e-4833-ade1-a7c083eac24d" value="0.2"/>
     </service>
   </services>
 </esdl:EnergySystem>
