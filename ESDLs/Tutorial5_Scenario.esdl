@@ -97,8 +97,8 @@
   <services xsi:type="esdl:Services">
     <service xsi:type="esdl:DrivenByDemand" name="DrivenByDemand for HeatPump_63a4" energyAsset="63a497d2-9cd8-4b03-909b-9e48bebe0784" outPort="bbfafc2a-21df-43fd-a852-0eb260441fb4" id="fb24d6f9-87a8-4196-b8c1-fece3953a644"/>
     <service xsi:type="esdl:StorageStrategy" energyAsset="b8b3c7cf-11c8-46da-89d0-f87ec7fc6ece" name="StorageStrategy for Battery_b8b3" id="0878e304-4a6d-43ab-ae95-7e76568d9863">
-      <marginalDischargeCosts xsi:type="esdl:SingleValue" name="marginalChargeCosts for Battery_b8b3" value="0.2" id="51e6715a-0a74-4502-948d-ecde80acbf49"/>
-      <marginalChargeCosts xsi:type="esdl:SingleValue" name="marginalChargeCosts for Battery_b8b3" value="0.8" id="2718eacc-452e-4833-ade1-a7c083eac24d"/>
+      <marginalDischargeCosts xsi:type="esdl:SingleValue" name="marginalChargeCosts for Battery_b8b3" value="0.8" id="51e6715a-0a74-4502-948d-ecde80acbf49"/>
+      <marginalChargeCosts xsi:type="esdl:SingleValue" name="marginalChargeCosts for Battery_b8b3" value="0.2" id="2718eacc-452e-4833-ade1-a7c083eac24d"/>
     </service>
     <service xsi:type="esdl:DrivenBySupply" name="DrivenBySupply for Electrolyzer_Local" energyAsset="6f3b39c5-4cea-4cb9-a494-2a10c958a781" inPort="53f17443-bf27-49cf-b213-3dfc9562d446" id="106d0e53-619a-4d2b-80d5-79d9289a1b83"/>
     <service xsi:type="esdl:DrivenByDemand" name="DrivenByDemand for FuelCell_Local" energyAsset="1849a710-18ae-4fd5-b104-17fa068cf58f" outPort="0dd0de2b-a254-4db9-b758-970c3b3cbeea" id="d28c844e-7629-4c0e-87cd-22dbe6c057c8"/>
